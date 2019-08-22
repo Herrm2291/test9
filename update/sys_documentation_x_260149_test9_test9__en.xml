@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="test9" language="en" table="x_260149_test9_test9">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>test9</label>
+            <language>en</language>
+            <name>x_260149_test9_test9</name>
+            <plural>test9s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-22 15:52:26</sys_created_on>
+            <sys_id>b8f9c3a7371f33001d52ded993990ec6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test9</sys_name>
+            <sys_package display_value="test9" source="x_260149_test9">098943a737db33001d52ded993990e30</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="test9">098943a737db33001d52ded993990e30</sys_scope>
+            <sys_update_name>sys_documentation_x_260149_test9_test9__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-22 15:52:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
